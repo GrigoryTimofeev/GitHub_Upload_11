@@ -33,6 +33,7 @@ Please install the following before starting the application
   pip install hvplot
   pip install holoviews
   pip install jupyterlab
+  pip install google-colab
 ```
 
 ---
