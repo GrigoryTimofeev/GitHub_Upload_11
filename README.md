@@ -34,6 +34,7 @@ Please install the following before starting the application
   pip install holoviews
   pip install jupyterlab
   pip install google-colab
+  pip install termios
 ```
 
 ---
