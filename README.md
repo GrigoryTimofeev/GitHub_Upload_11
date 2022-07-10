@@ -2,6 +2,18 @@
 
 Analyze the company's financial and user data to help the company grow. This is accomplished by evaluating the data to predict whether search traffic can translate into the ability to successfully trade the stock.
 
+![alt text](screenshotsMod11/Mercado1.png)
+
+![alt text](screenshotsMod11/mercado2.png)
+
+![alt text](screenshotsMod11/mercado3.png)
+
+![alt text](screenshotsMod11/mercado4.png)
+
+![alt text](screenshotsMod11/mercado5.png)
+
+![alt text](screenshotsMod11/mercado6.png)
+
 ---
 
 ## Technologies
@@ -34,7 +46,7 @@ Please install the following before starting the application
   pip install holoviews
   pip install jupyterlab
   pip install google-colab
-  pip install termios
+
 ```
 
 ---
